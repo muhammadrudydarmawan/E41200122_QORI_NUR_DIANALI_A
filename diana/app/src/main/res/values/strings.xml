@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikasi Teknologi Informasi</string>
+    <string name="ucapan_selamat_datang">Di Aplikasi Teknologi Informasi</string>
+    <string-array name="major">
+        <item>D4-Teknik Informatika</item>
+        <item>D3-Teknik Komputer</item>
+        <item>D3-Manajemen Informatika</item>
+    </string-array>
+</resources>
